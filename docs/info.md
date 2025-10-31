@@ -17,4 +17,4 @@ Try every combination of two bits
 
 ## External hardware
 
-try every combination of two bits
+A single LED
